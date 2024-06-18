@@ -48,8 +48,9 @@ To run this project locally, follow these steps:
 5. **To build for production and preview**
  ```node
 npm run build
+```
 
-5. **To run a preview**
+6. **To run a preview**
 ``` node
 npm run preview``` 
 
