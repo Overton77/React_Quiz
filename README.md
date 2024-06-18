@@ -32,8 +32,6 @@ To run this project locally, follow these steps:
    ````node
    npm install```
 
-   ````
-
 3. **To start the json server and application at once**
 
    ```node
@@ -48,11 +46,12 @@ To run this project locally, follow these steps:
    ````
 
 5. **To build for production and preview**
-   ````node
-   npm run build```
-   ```node
-   npm run preview```
-   ````
+ ```node
+npm run build
+
+5. **To run a preview**
+``` node
+npm run preview``` 
 
 Technologies Used
 Vite
