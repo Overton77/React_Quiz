@@ -52,7 +52,8 @@ npm run build
 
 6. **To run a preview**
 ``` node
-npm run preview``` 
+npm run preview
+``` 
 
 Technologies Used
 Vite
