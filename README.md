@@ -40,10 +40,10 @@ To run this project locally, follow these steps:
 
 4. **To run the server individually and then the application**
 
-   ````node
-   npm run server && npm run dev```
+   ```node
+   npm run server && npm run dev
 
-   ````
+   ```
 
 5. **To build for production and preview**
  ```node
