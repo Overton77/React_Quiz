@@ -29,8 +29,8 @@ To run this project locally, follow these steps:
 
 2. **Install dependencies**
 
-   ````node
-   npm install```
+   ```node
+   npm install``
 
 3. **To start the json server and application at once**
 
